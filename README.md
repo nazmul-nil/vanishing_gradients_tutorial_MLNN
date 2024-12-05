@@ -68,3 +68,5 @@ pip install -r requirements.txt
 7. Ioffe, S. and Szegedy, C. (2015). *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* Proceedings of the 32nd International Conference on Machine Learning (ICML), pp.448–456.
 
 ---
+📝 License
+This project is open for everyone to use. See the LICENSE file for more details.

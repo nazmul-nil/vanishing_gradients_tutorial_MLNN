@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ---
 
-Citation
+## Citation
 If you use or reference this work in an academic context, please cite it as follows:
 
 Hossain, N. (2025) 'Understanding and Addressing Vanishing and Exploding Gradients in Deep Learning', GitHub Repository. Available at: [https://github.com/nazmul-nil/vanishing_gradients_tutorial_MLNN](https://github.com/nazmul-nil/vanishing_gradients_tutorial_MLNN) [Accessed date].

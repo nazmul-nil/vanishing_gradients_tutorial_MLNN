@@ -1,3 +1,27 @@
-This project is licensed for public use. Redistribution, modification, and usage are allowed for both personal and commercial purposes.
+MIT License  
 
-Proper attribution to the original author is appreciated but not required.
+Copyright (c) 2025 Nazmul Hossain  
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the "Software"), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:  
+
+1. The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.  
+
+2. If this software or its derivatives are used in **academic research or publications**,  
+the authors **must** cite the original work in accordance with standard citation formats.  
+The citation should include:  
+
+   **Hossain, N. (2025) 'Understanding and Addressing Vanishing and Exploding Gradients in Deep Learning', *GitHub Repository*. Available at: <https://github.com/nazmul-nil/vanishing_gradients_tutorial_MLNN> [Accessed date].**  
+
+3. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
+THE SOFTWARE.

@@ -57,16 +57,11 @@ pip install -r requirements.txt
 
 ---
 
-## 🔗 References
+## Citation
+If you use or reference this work in an academic context, please cite it as follows:
 
-1. Bengio, Y., Simard, P., and Frasconi, P. (1994). *Learning long-term dependencies with gradient descent is difficult.* IEEE Transactions on Neural Networks, 5(2), pp.157–166.
-2. Hochreiter, S., Bengio, Y., Frasconi, P., and Schmidhuber, J. (1997). *Gradient flow in recurrent nets: The difficulty of learning long-term dependencies.* A Field Guide to Dynamical Recurrent Neural Networks, pp.237–243.
-3. Pascanu, R., Mikolov, T., and Bengio, Y. (2013). *On the difficulty of training recurrent neural networks.* In International Conference on Machine Learning, pp.1310–1318.
-4. Rumelhart, D.E., Hinton, G.E., and Williams, R.J. (1986). *Learning representations by back-propagating errors.* Nature, 323(6088), pp.533–536.
-5. Nair, V. and Hinton, G.E. (2010). *Rectified linear units improve restricted Boltzmann machines.* Proceedings of the 27th International Conference on Machine Learning (ICML), pp.807–814.
-6. Glorot, X. and Bengio, Y. (2010). *Understanding the difficulty of training deep feedforward neural networks.* Proceedings of the 13th International Conference on Artificial Intelligence and Statistics (AISTATS), pp.249–256.
-7. Ioffe, S. and Szegedy, C. (2015). *Batch normalization: Accelerating deep network training by reducing internal covariate shift.* Proceedings of the 32nd International Conference on Machine Learning (ICML), pp.448–456.
+Hossain, N. (2025) 'Understanding and Addressing Vanishing and Exploding Gradients in Deep Learning', GitHub Repository. Available at: [https://github.com/nazmul-nil/vanishing_gradients_tutorial_MLNN](https://github.com/nazmul-nil/vanishing_gradients_tutorial_MLNN) [Accessed date].
 
 ---
 ## 📝 License
-This project is open for everyone to use. See the LICENSE file for more details.
+See the LICENSE file.
